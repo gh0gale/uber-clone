@@ -1,0 +1,132 @@
+.nav-link .nav-item{
+    font-weight: 800;
+    color: black;
+}
+
+
+
+.hero-container{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.hero-container img{
+    height: 70vh;
+}
+.hero-info h1 {
+    font-size: 52px;
+    font-weight: bolder;
+}
+
+.hero-desc{
+    display: flex;
+    gap: 4rem;
+    margin: 2rem 0rem;
+}
+
+.form-floating1{
+    width: 450px;
+    height: 60px;
+
+}
+.form-floating2{
+    width: 217px;
+    height: 60px;
+  
+}
+.today{
+    display: flex;
+    gap: 1rem;
+}
+.suggestions{
+    margin-left: 12.5rem;
+    margin-bottom: 3rem;
+    margin-top: 5rem;
+    font-weight: bolder;
+    
+}
+
+.suggest-container{
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+.suggest-box{
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+    padding: 1.5rem;
+
+    
+}
+.suggest-box img{
+    height: 140px;
+    
+}
+.ride {
+    float: right;
+    padding: 0;
+}
+.suggest-box p{
+    font-size: 12px;
+}
+.suggest-box h4{
+    font-size: 16px;
+}
+
+
+.down-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    gap: 8rem;
+    
+}
+.down-info{
+    display: flex;
+    flex-direction: row;
+    gap: 8rem;
+    padding: 0px;
+    align-items: center;
+    
+   
+}
+
+.down-info a {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    width: 200px;
+    height: 46px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.hehe p{
+    padding-top: 8px;
+}
+.hehe hr{
+    width:300px;
+    padding: 0px;
+}
+.flexkar{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.flexkar h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
